@@ -1,0 +1,10 @@
+{
+	"files.associations": {
+		"*.py": "python",
+		"*.vy": "vyper",
+		"metadata": "json",
+		"Podfile": "ruby",
+		"*.tsx": "typescriptreact",
+		"ostream": "cpp"
+	}
+}
