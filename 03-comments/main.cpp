@@ -12,7 +12,7 @@
 int main()
 {
   // this prints out hello world
-  std::cout << "Hello World";
+  std::cout << "Hello World" << std::endl;
   return 0;
   // this program ends here
 }
